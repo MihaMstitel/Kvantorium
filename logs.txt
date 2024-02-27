@@ -1,0 +1,11 @@
+1) Wed Feb 28 08:29:56 2024
+
+modify all files Misha1
+
+2)Wed Feb 28 08:34:30 2024
+
+added logs.txt
+
+3) Wed Feb 28 08:41:15 2024
+
+Merge branch 'Egor2' into Misha1
