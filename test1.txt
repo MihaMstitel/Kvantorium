@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Misha1
+=======
+Egor2
+>>>>>>> Egor2
 Hello world!
