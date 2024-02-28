@@ -1,0 +1,48 @@
+commit 3f2d20f27e287233a7b9bfba3fa542a41b56e9a9
+Merge: 079f2eb 8f5e5cc
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 20:08:25 2024 +0900
+
+    Merge branch 'Egor2' into Misha1
+
+commit 079f2ebd53b957200f55ea1c2948aab9fa4817a2
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 20:06:43 2024 +0900
+
+    added logs.txt
+
+commit 8f5e5ccc60060c6abc5367d7951e84166db916b0
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 20:05:03 2024 +0900
+
+    modified all files with Egor2
+
+commit e70e45500cebd41c7a2fa22b591d27f42f2bbf60
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 20:03:44 2024 +0900
+
+    modified all files with Misha1
+
+commit 3904e8501ad128ca6af15c720850ac091ef81718
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 20:01:20 2024 +0900
+
+    added test2.txt and test3.txt
+
+commit 10ffde5db2f21be6e596932646028189c6294105
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 19:59:31 2024 +0900
+
+    modified test1.txt
+
+commit 794cec4053012dc603181cdabaa9c5e17db98d84
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 19:58:29 2024 +0900
+
+    added test1.txt
+
+commit ea820a6028a7464a05fbf71efcc0bcb42964ee8c
+Author: MihaMstitel <ggbawlgem@gmail.com>
+Date:   Wed Feb 28 19:53:04 2024 +0900
+
+    Initial commit
