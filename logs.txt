@@ -9,3 +9,51 @@ added logs.txt
 3) Wed Feb 28 08:41:15 2024
 
 Merge branch 'Egor2' into Misha1
+commit 8051df3132e9e8b4648aaa8d9f926a082cd1a7e8
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:55:48 2024 +0900
+
+    modified logs.txt
+
+commit f6b84f688ae27ca71ec4f1405d26831ff92d24f8
+Merge: 85f9778 f26cd6d
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:41:15 2024 +0900
+
+    Merge branch 'Egor2' into Misha1
+
+commit 85f9778f7c8b15101a60a697ed3efb2cd2b2d9c9
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:34:30 2024 +0900
+
+    added logs.txt
+
+commit f26cd6d508a3e990cd61fa6fb6007e2bc31a3b86
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:31:22 2024 +0900
+
+    modify all files Egor2
+
+commit 8bb26445d92487d3ba51bfc65decab7b16699d58
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:29:56 2024 +0900
+
+    modify all files Misha1
+
+commit 34ac92ee3b55eaed66cb0062f3aa4a9d8e3c4e03
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:26:31 2024 +0900
+
+    added test2 and test3.txt
+
+commit 05563e30579c180515bbd1ba1ad93489f6023e51
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:25:05 2024 +0900
+
+    modify test1.txt
+
+commit ffe26f589d31f77d5dc1eef56086f5e26d046ae0
+Author: ManyaSir <play.manya@bk.ru>
+Date:   Wed Feb 28 08:24:16 2024 +0900
+
+    added test1.txt
